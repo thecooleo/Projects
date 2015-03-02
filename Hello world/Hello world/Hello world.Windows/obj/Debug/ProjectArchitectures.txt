@@ -1,0 +1,1 @@
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\Hello world.Windows.csproj;neutral

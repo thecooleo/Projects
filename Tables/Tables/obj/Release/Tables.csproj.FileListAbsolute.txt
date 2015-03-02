@@ -1,0 +1,5 @@
+c:\users\parker\documents\visual studio 2013\Projects\Tables\Tables\bin\Release\Tables.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\Tables\Tables\bin\Release\Tables.exe
+c:\users\parker\documents\visual studio 2013\Projects\Tables\Tables\bin\Release\Tables.pdb
+c:\users\parker\documents\visual studio 2013\Projects\Tables\Tables\obj\Release\Tables.exe
+c:\users\parker\documents\visual studio 2013\Projects\Tables\Tables\obj\Release\Tables.pdb

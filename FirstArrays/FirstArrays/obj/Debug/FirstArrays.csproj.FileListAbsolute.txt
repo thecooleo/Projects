@@ -1,0 +1,6 @@
+c:\users\parker\documents\visual studio 2013\Projects\FirstArrays\FirstArrays\bin\Debug\FirstArrays.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\FirstArrays\FirstArrays\bin\Debug\FirstArrays.exe
+c:\users\parker\documents\visual studio 2013\Projects\FirstArrays\FirstArrays\bin\Debug\FirstArrays.pdb
+c:\users\parker\documents\visual studio 2013\Projects\FirstArrays\FirstArrays\obj\Debug\FirstArrays.csprojResolveAssemblyReference.cache
+c:\users\parker\documents\visual studio 2013\Projects\FirstArrays\FirstArrays\obj\Debug\FirstArrays.exe
+c:\users\parker\documents\visual studio 2013\Projects\FirstArrays\FirstArrays\obj\Debug\FirstArrays.pdb

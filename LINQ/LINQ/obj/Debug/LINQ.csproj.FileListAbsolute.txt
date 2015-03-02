@@ -1,0 +1,6 @@
+c:\users\parker\documents\visual studio 2013\Projects\LINQ\LINQ\bin\Debug\LINQ.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+c:\users\parker\documents\visual studio 2013\Projects\LINQ\LINQ\bin\Debug\LINQ.exe
+c:\users\parker\documents\visual studio 2013\Projects\LINQ\LINQ\bin\Debug\LINQ.pdb
+c:\users\parker\documents\visual studio 2013\Projects\LINQ\LINQ\obj\Debug\LINQ.exe
+c:\users\parker\documents\visual studio 2013\Projects\LINQ\LINQ\obj\Debug\LINQ.pdb

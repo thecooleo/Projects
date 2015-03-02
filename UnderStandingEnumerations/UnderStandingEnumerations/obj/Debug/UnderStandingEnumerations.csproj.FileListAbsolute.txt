@@ -1,0 +1,5 @@
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingEnumerations\UnderStandingEnumerations\bin\Debug\UnderStandingEnumerations.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingEnumerations\UnderStandingEnumerations\bin\Debug\UnderStandingEnumerations.exe
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingEnumerations\UnderStandingEnumerations\bin\Debug\UnderStandingEnumerations.pdb
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingEnumerations\UnderStandingEnumerations\obj\Debug\UnderStandingEnumerations.exe
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingEnumerations\UnderStandingEnumerations\obj\Debug\UnderStandingEnumerations.pdb

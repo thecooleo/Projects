@@ -1,0 +1,13 @@
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\bin\Debug\Hello world1.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\obj\Debug\Hello world1.csprojResolveAssemblyReference.cache
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\obj\Debug\MainWindow.baml
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\obj\Debug\MainWindow.g.cs
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\obj\Debug\App.g.cs
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\obj\Debug\Hello world1_MarkupCompile.cache
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\obj\Debug\Hello world1.g.resources
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\obj\Debug\Hello_world1.Properties.Resources.resources
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\obj\Debug\Hello world1.csproj.GenerateResource.Cache
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\bin\Debug\Hello world1.exe
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\bin\Debug\Hello world1.pdb
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\obj\Debug\Hello world1.exe
+c:\users\parker\documents\visual studio 2013\Projects\Hello world1\Hello world1\obj\Debug\Hello world1.pdb

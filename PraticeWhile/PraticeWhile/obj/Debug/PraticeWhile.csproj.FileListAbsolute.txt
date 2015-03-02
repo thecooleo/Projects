@@ -1,0 +1,6 @@
+c:\users\parker\documents\visual studio 2013\Projects\PraticeWhile\PraticeWhile\bin\Debug\PraticeWhile.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\PraticeWhile\PraticeWhile\bin\Debug\PraticeWhile.exe
+c:\users\parker\documents\visual studio 2013\Projects\PraticeWhile\PraticeWhile\bin\Debug\PraticeWhile.pdb
+c:\users\parker\documents\visual studio 2013\Projects\PraticeWhile\PraticeWhile\obj\Debug\PraticeWhile.csprojResolveAssemblyReference.cache
+c:\users\parker\documents\visual studio 2013\Projects\PraticeWhile\PraticeWhile\obj\Debug\PraticeWhile.exe
+c:\users\parker\documents\visual studio 2013\Projects\PraticeWhile\PraticeWhile\obj\Debug\PraticeWhile.pdb

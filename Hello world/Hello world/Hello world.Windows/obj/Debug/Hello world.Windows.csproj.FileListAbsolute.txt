@@ -1,0 +1,32 @@
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\App.xbf
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\MainPage.xbf
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\Hello world.Windows.xr.xml
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\Hello world.Windows.exe
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\Hello world.Windows.pdb
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\resources.pri
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\AppxManifest.xml
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\Hello world.Windows.build.appxrecipe
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\App.g.i.cs
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\App.g.cs
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\MainPage.g.cs
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\App.xaml
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\MainPage.xaml
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\App.xbf
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\MainPage.xbf
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\Hello world.Windows.exe
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\Hello world.Windows.pdb
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\priconfig.xml
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\layout.resfiles
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\resources.resfiles
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\pri.resfiles
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\qualifiers.txt
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\ProjectArchitectures.txt

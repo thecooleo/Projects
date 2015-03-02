@@ -1,0 +1,6 @@
+c:\users\parker\documents\visual studio 2013\Projects\ArraysAgain\ArraysAgain\bin\Debug\ArraysAgain.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\ArraysAgain\ArraysAgain\obj\Debug\ArraysAgain.csprojResolveAssemblyReference.cache
+c:\users\parker\documents\visual studio 2013\Projects\ArraysAgain\ArraysAgain\bin\Debug\ArraysAgain.exe
+c:\users\parker\documents\visual studio 2013\Projects\ArraysAgain\ArraysAgain\bin\Debug\ArraysAgain.pdb
+c:\users\parker\documents\visual studio 2013\Projects\ArraysAgain\ArraysAgain\obj\Debug\ArraysAgain.exe
+c:\users\parker\documents\visual studio 2013\Projects\ArraysAgain\ArraysAgain\obj\Debug\ArraysAgain.pdb

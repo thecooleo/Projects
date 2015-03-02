@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PARKERSPC</Machine>
+    <WindowsUser>Parker</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>496ee6b2-5c2a-4b88-90d7-de5d989efe2b</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9CE683734415059F751B0E42580838C2E995E6420461426A6C713728FADD69EB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>496ee6b2-5c2a-4b88-90d7-de5d989efe2b_1.0.0.0_neutral__nj3wff25byyk8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>496ee6b2-5c2a-4b88-90d7-de5d989efe2b_nj3wff25byyk8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>496ee6b2-5c2a-4b88-90d7-de5d989efe2b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Parker</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-23T03:17:19.047</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\Hello world.Windows.exe">
+      <PackagePath>Hello world.Windows.exe</PackagePath>
+      <Modified>2015-02-23T03:17:17.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-23T03:17:17.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-23T03:17:17.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\Hello world.Windows.xr.xml">
+      <PackagePath>Hello world.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-23T03:17:16.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\parker\documents\visual studio 2013\Projects\Hello world\Hello world\Hello world.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-23T03:17:17.773</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

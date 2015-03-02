@@ -1,0 +1,6 @@
+c:\users\parker\documents\visual studio 2013\Projects\Moretest\Moretest\bin\Debug\Moretest.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\Moretest\Moretest\bin\Debug\Moretest.exe
+c:\users\parker\documents\visual studio 2013\Projects\Moretest\Moretest\bin\Debug\Moretest.pdb
+c:\users\parker\documents\visual studio 2013\Projects\Moretest\Moretest\obj\Debug\Moretest.csprojResolveAssemblyReference.cache
+c:\users\parker\documents\visual studio 2013\Projects\Moretest\Moretest\obj\Debug\Moretest.exe
+c:\users\parker\documents\visual studio 2013\Projects\Moretest\Moretest\obj\Debug\Moretest.pdb

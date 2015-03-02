@@ -1,0 +1,7 @@
+c:\users\parker\documents\visual studio 2013\Projects\HowToHandleExceptions\HowToHandleExceptions\bin\Debug\HowToHandleExceptions.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\HowToHandleExceptions\HowToHandleExceptions\bin\Debug\HowToHandleExceptions.exe
+c:\users\parker\documents\visual studio 2013\Projects\HowToHandleExceptions\HowToHandleExceptions\bin\Debug\HowToHandleExceptions.pdb
+c:\users\parker\documents\visual studio 2013\Projects\HowToHandleExceptions\HowToHandleExceptions\obj\Debug\HowToHandleExceptions.exe
+c:\users\parker\documents\visual studio 2013\Projects\HowToHandleExceptions\HowToHandleExceptions\obj\Debug\HowToHandleExceptions.pdb
+c:\users\parker\documents\visual studio 2013\Projects\HowToHandleExceptions\HowToHandleExceptions\bin\Debug\TextFile1.txt
+c:\users\parker\documents\visual studio 2013\Projects\HowToHandleExceptions\HowToHandleExceptions\obj\Debug\HowToHandleExceptions.csprojResolveAssemblyReference.cache

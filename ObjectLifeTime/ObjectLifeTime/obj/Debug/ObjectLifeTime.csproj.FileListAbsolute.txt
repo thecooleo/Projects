@@ -1,0 +1,6 @@
+c:\users\parker\documents\visual studio 2013\Projects\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe
+c:\users\parker\documents\visual studio 2013\Projects\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.pdb
+c:\users\parker\documents\visual studio 2013\Projects\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csprojResolveAssemblyReference.cache
+c:\users\parker\documents\visual studio 2013\Projects\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.exe
+c:\users\parker\documents\visual studio 2013\Projects\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.pdb

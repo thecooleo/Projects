@@ -1,0 +1,6 @@
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingScope\UnderStandingScope\bin\Debug\UnderStandingScope.exe.config
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingScope\UnderStandingScope\obj\Debug\UnderStandingScope.csprojResolveAssemblyReference.cache
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingScope\UnderStandingScope\bin\Debug\UnderStandingScope.exe
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingScope\UnderStandingScope\bin\Debug\UnderStandingScope.pdb
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingScope\UnderStandingScope\obj\Debug\UnderStandingScope.exe
+c:\users\parker\documents\visual studio 2013\Projects\UnderStandingScope\UnderStandingScope\obj\Debug\UnderStandingScope.pdb

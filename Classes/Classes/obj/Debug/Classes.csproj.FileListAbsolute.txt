@@ -1,0 +1,6 @@
+c:\users\parker\documents\visual studio 2013\Projects\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\Parker\Documents\Visual Studio 2013\Projects\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Parker\Documents\Visual Studio 2013\Projects\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Parker\Documents\Visual Studio 2013\Projects\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Parker\Documents\Visual Studio 2013\Projects\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\Parker\Documents\Visual Studio 2013\Projects\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache

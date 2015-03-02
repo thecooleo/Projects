@@ -1,0 +1,1 @@
+c:\users\parker\documents\visual studio 2013\Projects\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe.config
